@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(57, 169, 219);
+  font-family: Rubik, Arial;
+}
+form {
+  text-align: center;
+  line-height: 30px;
+  height: 80%;
+  overflow: auto;
+}
+.user{
+    color: white;
+    text-align: center;
+    
+}
+.log_in{
+ border-style:hidden;
+ text-align: center;
+ color:white;
+}
+.login{
+    background-image: url("https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
